@@ -1,5 +1,5 @@
 [![MasterHead](https://www.git-tower.com/blog/media/pages/posts/git-for-marketing-teams/886baa2e35-1692876611/header@3960w.png)](https://rkritikaa.io)
-<h1 align="center">Hi 👋, I'm R.Kritika</h1>
+<h1 align="center">Heyy, I'm R.Kritika</h1>
 <h3 align="right"alt="Coding"width="400" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkritikaa&label=Profile%20views&color=0e75b6&style=flat" alt="rkritikaa" /> </p>
 
